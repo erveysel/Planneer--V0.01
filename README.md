@@ -1,30 +1,28 @@
-# Life reminder app
+📌 Proje Amacı
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Bu proje, fiziksel baloncuklar (haptic feedback/baloncuklu dokunsal geri bildirim) kullanarak kullanıcıları hatırlatmalarla eğlenceli ve etkileşimli bir şekilde uyaran bir uygulamadır. Geleneksel bildirimler yerine dokunsal ve görsel baloncuk animasyonlarıyla hatırlatma deneyimini "oyunsulaştırmayı" hedefler.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/erveysels-projects/v0-life-reminder-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/kzowlYtKThh)
+🌟 Öne Çıkan Özellikler
 
-## Overview
+Baloncuk Animasyonları: Hatırlatmalar renkli baloncuklar şeklinde ekranda belirir.
+Fiziksel Tepki: Titreşim veya dokunsal geri bildirimle kullanıcıya fiziksel uyarı verir.
+Kişiselleştirme: Baloncuk boyutu, renkleri ve titreşim desenleri özelleştirilebilir.
+Oyunlaştırma: Baloncukları patlatarak hatırlatmayı kapatma gibi eğlenceli etkileşimler.
+🔧 Teknoloji Stacki
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Frontend: HTML5, CSS3, JavaScript (veya React/React Native)
+Haptic Feedback: [Cihaz API'si veya lib (örneğin, react-native-haptic-feedback)]
+Animasyon: CSS Animations/Canvas/WebGL
+🎯 Kullanım Senaryoları
 
-## Deployment
+Ders çalışma molalarını hatırlatma,
+Su içme/alarm hatırlatıcıları,
+Eğlenceli bir "yapılacaklar listesi" deneyimi.
+🤝 Katkıda Bulunun
 
-Your project is live at:
+Hata bildirimleri, öneriler veya pull request'ler için GitHub üzerinden iletişime geçebilirsiniz.
 
-**[https://vercel.com/erveysels-projects/v0-life-reminder-app](https://vercel.com/erveysels-projects/v0-life-reminder-app)**
+✨ Neden Bu Proje?
 
-## Build your app
+Günlük hayatta sıkıcı gelen bildirimleri, dokunsal ve görsel bir şölene dönüştürmek için tasarlandı. Baloncuk metaforuyla stres azaltmayı bile hedefliyor olabilirsiniz!
 
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/kzowlYtKThh](https://v0.dev/chat/projects/kzowlYtKThh)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
